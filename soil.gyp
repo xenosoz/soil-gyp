@@ -27,6 +27,11 @@
         'src/src/stbi_DDS_aug_c.h',
         #'src/src/test_SOIL.cpp',
       ],
+      'direct_dependent_settings': {
+        'include_dirs': [
+          'src/src/',
+        ],
+      },
     },
   ],
 }
