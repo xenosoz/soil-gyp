@@ -11,4 +11,4 @@ Works with *windows only* for now.
 ## NOTICE
 **gyp-soil** contains the original work of Jonathan L. Dummer (the author of SOIL) and Sean Barrett (stb\_image 1.16, on which the project is based).
 MIT License.
-See src/soil.html also.
+See soil-20080707/soil.html also.
