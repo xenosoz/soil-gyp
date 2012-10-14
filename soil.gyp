@@ -4,7 +4,7 @@
 {
   'targets': [
     {
-      'target_name': 'soil_lib',
+      'target_name': 'soil_static',
       'product_name': 'soil',
       'type': 'static_library',
       'conditions': [
